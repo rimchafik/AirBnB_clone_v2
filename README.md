@@ -152,3 +152,7 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 <!-- ## Testing -->
 
 **NOTE:** Before you push any commit, please run the script `./test.bash` to ensure that no tests are failing and your code complies with this project's styling standard.
+
+<!-- ## AUTHORS -->
+Rim Chafik
+Louay Belhaj
